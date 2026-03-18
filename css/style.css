@@ -667,8 +667,8 @@ main{
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-family: var(--script-font);
-    font-size: var(--title-fs);
+
+    font-size: 34px;
     text-align: center;
 }
 .banner-name .groom_name, .banner-name .bride_name {
